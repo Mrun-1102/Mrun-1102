@@ -16,7 +16,8 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" height="200" width="300" alt="Girl Coding" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" width="300" alt="Woman Coding" />
+
 
 ---
 
