@@ -2,7 +2,12 @@
 
 <h3 align="center"> 🧠 "Curious mind. Creative heart. Continuous learner." 💻</h3>
 
-<h2 align="left">Hi 👋! I'm Mrunmai Kashyape, a passionate Python Developer & Tech Explorer from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Mrunmai Kashyape</h2>
+
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F794EF&width=435&lines=A+passionate+Python+Developer+%26+Tech+Explorer+from+India+🇮🇳" alt="Typing SVG" />
+</h3>
+
 
 ---
 
