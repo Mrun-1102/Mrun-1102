@@ -4,17 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mrunmai+Kashyape!;" />
 </h1>
 
-<h3 align="center">A passionate Python developer and aspiring DevOps engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate Python developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
  🔭 I’m currently working on **A Personal Finance Tracker using Django**
- 
- 🌱 I’m currently learning **Docker, Jenkins, and DevOps with AWS**
 
-💬 Ask me about **Python, Django, ML (https://github.com/Mrun-1102/Mrun-1102/issues)**
+💬 Ask me about **Python, Django (https://github.com/Mrun-1102/Mrun-1102/issues)**
 
 ⚡ Fun fact **I love dancing and dream of traveling the world!**
 
@@ -41,16 +39,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/Mrun-1102/Mrun-1102/blob/output/github-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
