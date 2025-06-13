@@ -14,6 +14,10 @@
 
 💬 Ask me about **Python, Django (https://github.com/Mrun-1102/Mrun-1102/issues)**
 
+✍️ I write **weekly tech blogs on Medium** to simplify what I learn — Python, Django, DevOps, and more  
+
+📚 Check them out here: [medium.com/@mrunmaikashyape2001](https://medium.com/@mrunmaikashyape2001)  
+
 ⚡ Fun fact **I love dancing and dream of traveling the world!**
 
  </div>
