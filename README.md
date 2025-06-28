@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Personal Finance Tracker using Django**
+🔭 I’m currently working on **A Personal Finance Tracker using Django**
 
-💬 Ask me about **Python, Django (https://github.com/Mrun-1102/Mrun-1102/issues)**
+🌐 Check out my developer portfolio 👉 [mrunmai.netlify.app](https://mrunintech.netlify.app/)
 
 ✍️ I write **weekly tech blogs on Medium** to simplify what I learn — Python, Django, DevOps, and more  
 
