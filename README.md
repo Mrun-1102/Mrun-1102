@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 I’m currently working on **A Personal Finance Tracker using Django**
+🔭 I’m currently working on **Smart Study Scheduler using Django**
 
 🌐 Check out my developer portfolio 👉 [mrunmai.netlify.app](https://mrunintech.netlify.app/)
 
